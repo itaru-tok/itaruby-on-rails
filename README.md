@@ -5,3 +5,4 @@
   <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=itaruby-on-rails&theme=onedark&show_icons=true" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=itaruby-on-rails&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
